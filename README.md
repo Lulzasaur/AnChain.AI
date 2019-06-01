@@ -8,7 +8,7 @@ This is a very simple full stack React app that renders a graph from API data.
 
 ## Set Up
 
-We will fire up a server to fetch data and a frontend to serve up the response in a graph form.
+After installing dependancies, we will fire up a server to fetch data and a frontend to serve up the response in a graph form.
 
 In backend folder:
 
