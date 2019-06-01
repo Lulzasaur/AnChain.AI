@@ -7,6 +7,7 @@ function App() {
     <div>
       <Graph />
     </div>
+    
   );
 }
 
